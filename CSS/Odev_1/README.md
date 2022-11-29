@@ -1,0 +1,1 @@
+Sayfanın önizlemesini buradan görebilirsiniz -> [Site](https://burakkalay.github.io/Kodluyoruz-FrontEnd/CSS/Odev_1/endüstriyel.html)
