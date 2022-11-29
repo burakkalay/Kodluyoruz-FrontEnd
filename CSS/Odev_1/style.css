@@ -1,0 +1,155 @@
+body{
+    background-color: #EFF5F5;
+    color: #497174;
+}
+header{
+    font-family: 'Permanent Marker', cursive;
+    text-align:center;
+    font-size: 2.5em;
+
+}
+
+header h1 a{
+    font-size: 56px;
+    color: #EB6440;
+}
+
+.navbar{
+    text-align: center;
+    margin-left: 15%;
+    margin-bottom: 1%;
+    width: 47%;
+    height: 100%;
+}
+
+.navButton {
+    border-radius: 5px;
+    width: fit-content;
+    margin: 1%;
+    padding: 1.4%;
+    text-align: center;
+    font-size: 150%;
+    text-decoration: none;
+    color: #497174;
+    background-color: #D6E4E5;
+}
+
+#indexButton {
+    background-color: #F0DBDB;
+}
+
+#productsButton {
+    background-color: #F0DBDB;
+}
+
+#about-usButton {
+    background-color: #F0DBDB;
+}
+
+.navButton:hover {
+    background-color: #497174;
+    color: #EFF5F5;
+}
+
+section.sec {
+    height: 500px;
+    border: 1px solid #EB6440;
+    border-radius: 10px;
+    border-style: outset;
+    text-align:center;
+    margin-left: 25%;
+    margin-right: 25%;
+    background-color: #D6E4E5;
+    font-family: Roboto;
+}
+
+section.secPr{
+    width: 1200px;
+    text-align: center;
+    margin-left: 18%;
+}
+
+article {
+    padding-left: 2%;
+    padding-right: 2%;
+}
+
+footer {
+    text-align:center;
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-top: 5%;
+}
+
+p {
+    text-align: left;
+    font-size: 24px;
+}
+
+h1 {
+    font-size: 36px;
+}
+
+h2 {
+    font-size: 36px;
+    text-align: center;
+}
+
+ul.index_ul{
+    list-style:inside;
+    display: inline-block;
+    text-align: left;
+    font-size: 1.5em;
+}
+
+hr {
+    border: 1px solid #EB6440;
+}
+
+.links {
+    text-decoration: none;
+    color: #EB6440;
+}
+.links:hover {
+    color:#EFF5F5;
+}
+#prgf{
+    font-family: 'Courgette', cursive;
+}
+
+#sec{
+    font-family: 'Roboto', sans-serif;
+}
+
+.wrapper{
+    display:inline-block;
+    max-height: 300px;
+    padding: 0;
+    width: 80rem;
+    height: 80rem;
+    overflow: hidden;
+}
+
+.menu_img{
+    width: 80%;
+    object-fit: cover;
+    transition:800ms;
+}
+
+.wrapper:hover img {
+    transform: scale(1.2);
+}
+
+/* ********** Responsive Image Gallery ********** */
+div.gallery {
+    border: 1px solid #ccc;
+  }
+  
+  div.gallery:hover {
+    border: 1px solid #777;
+  }
+  
+  div.gallery img {
+    width: auto;
+    height: auto;
+  }
