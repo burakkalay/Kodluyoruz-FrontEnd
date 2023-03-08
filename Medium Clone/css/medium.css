@@ -1,0 +1,56 @@
+.font {
+    font-family: 'PT Serif', serif;
+}
+
+
+.bg-yellow {
+    background-color: #FFC017;
+}
+
+.border-bottom-dark {
+    border-bottom: 1px solid rgba(41,41,41,1);
+}
+
+.btn-dark {
+    background-color: black;
+}
+
+.btn-outline-dark {
+    color: black;
+}
+
+.btn-outline-dark:hover{
+    background-color: black;
+}
+
+.fl {
+    color: rgba(230, 230, 230, 1);
+}
+.fk {
+    letter-spacing: 0;
+}
+.fj {
+    line-height: 36px;
+}
+.fi {
+    font-size: 30px;
+}
+.fh {
+    font-weight: 500;
+}
+.bu {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif
+}
+
+.star-color{
+    color: rgb(163, 161, 161);
+}
+
+.aside-buttons > li {
+    margin-bottom: 12px;
+}
+
+.btn-outline-secondary:hover{
+    background-color: white;
+    color: rgb(37, 37, 37);
+}
