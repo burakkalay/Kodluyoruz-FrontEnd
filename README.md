@@ -5,4 +5,4 @@ Patika da öğrendiklerim ile ilgili çalışmalarımı buradan yayınlayacağı
 
 ***
 
-*Patika.dev profilim* -> [Burak Kalay](https://app.patika.dev/brkkly09)
+*Patika.dev profilim* -> [Burak Kalay](https://academy.patika.dev/tr/profile)
